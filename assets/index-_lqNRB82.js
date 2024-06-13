@@ -1,0 +1,1 @@
+import{j as e,M as a,T as s}from"./index-BAwjm5YK.js";function i(){return e.jsx(a,{title:"News & Notice",children:e.jsx(s,{variant:"body2",children:"officiate descent molls anim id est labours."})})}export{i as default};
