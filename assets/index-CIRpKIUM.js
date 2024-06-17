@@ -1,0 +1,1 @@
+import{j as e,M as r,T as i}from"./index-F_InvB2_.js";function a(){return e.jsx(r,{title:"Approve or Decline Service Request",children:e.jsx(i,{variant:"body2",children:"officiate descent molls anim id est labours."})})}export{a as default};
